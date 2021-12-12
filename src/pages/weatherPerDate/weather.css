@@ -1,0 +1,29 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 10%;
+}
+
+.title {
+  font-weight: 900;
+}
+
+.selections {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 20rem;
+}
+.body {
+  display: flex;
+  flex-direction: column;
+  height: 70%;
+}
+
+.table-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 1rem 0;
+}

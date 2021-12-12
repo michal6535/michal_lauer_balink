@@ -1,0 +1,30 @@
+.table {
+  display: flex;
+  height: 80%;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 0 3rem;
+  width: 20%;
+}
+
+.day-text {
+  color: #337ab7;
+  font-weight: 700;
+  padding-bottom: 1rem;
+}
+
+.img-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+}
+
+.img-wrapper img {
+  width: 2rem;
+  height: 2rem;
+}
